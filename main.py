@@ -15,6 +15,8 @@
 #    to you, but what it IS.
 # 5. Lands in one beat — eight letters, instantly readable, spelled the
 #    way everyone spells it; the laugh and the nod arrive together.
+# Lowercase on purpose: the word is filed exactly as a reader would say
+# it, flat and diagnostic, with no capital letter dressing it up.
 import os
 
 OUT = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
